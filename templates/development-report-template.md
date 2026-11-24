@@ -21,8 +21,8 @@ Describe the objective of this development activity.
 
 Summarize the implementation or engineering work completed.
 
-- 
-- 
+- [Describe completed work]
+- [Describe additional completed work]
 
 ## 4. Files Modified
 
@@ -82,18 +82,18 @@ Describe the state of the project after this work.
 
 ## 11. Pending Tasks
 
-- 
-- 
+- [Describe pending task]
+- [Describe another pending task]
 
 ## 12. Known Limitations
 
-- 
-- 
+- [Describe a known limitation]
+- [Describe another limitation]
 
 ## 13. Next Steps
 
-- 
-- 
+- [Describe next action]
+- [Describe another next action]
 
 ## 14. Summary
 

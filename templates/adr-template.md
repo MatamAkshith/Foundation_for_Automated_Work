@@ -27,14 +27,13 @@ Clearly define the problem that needs to be addressed.
 
 List the factors influencing the decision.
 
-- Performance
-- Scalability
-- Maintainability
-- Security
-- Development complexity
-- Cost
-- Compatibility
-- Other:
+- [Describe performance requirements]
+- [Describe scalability requirements]
+- [Describe maintainability requirements]
+- [Describe security requirements]
+- [Describe development complexity]
+- [Describe cost considerations]
+- [Describe compatibility requirements]
 
 ## 4. Options Considered
 
@@ -43,30 +42,30 @@ List the factors influencing the decision.
 **Description:**
 
 **Advantages:**
-- 
+- [Describe an advantage]
 
 **Disadvantages:**
-- 
+- [Describe a disadvantage]
 
 ### Option 2
 
 **Description:**
 
 **Advantages:**
-- 
+- [Describe an advantage]
 
 **Disadvantages:**
-- 
+- [Describe a disadvantage]
 
 ### Option 3 (Optional)
 
 **Description:**
 
 **Advantages:**
-- 
+- [Describe an advantage]
 
 **Disadvantages:**
-- 
+- [Describe a disadvantage]
 
 ## 5. Decision
 
@@ -79,13 +78,13 @@ Explain why this option was selected over the alternatives.
 ## 7. Consequences
 
 ### Positive Consequences
-- 
+- [Describe a positive consequence]
 
 ### Negative Consequences
-- 
+- [Describe a negative consequence]
 
 ### Trade-offs
-- 
+- [Describe a trade-off]
 
 ## 8. Implementation Impact
 

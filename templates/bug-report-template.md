@@ -41,9 +41,9 @@ Describe what actually happens.
 
 ## 6. Steps to Reproduce
 
-1. 
-2. 
-3. 
+1. [Describe the first step]
+2. [Describe the second step]
+3. [Describe the third step]
 
 ## 7. Reproducibility
 
@@ -63,10 +63,10 @@ Add screenshots, recordings, or other relevant references.
 
 ## 10. Impact Assessment
 
-- Affected functionality:
-- Affected users:
-- Business or operational impact:
-- Workaround available:
+- [Describe affected functionality]
+- [Describe affected users]
+- [Describe business or operational impact]
+- [Describe available workarounds]
 
 ## 11. Root Cause Analysis
 
