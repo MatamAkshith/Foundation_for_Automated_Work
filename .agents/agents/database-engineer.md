@@ -1,4 +1,3 @@
-
 ---
 name: database-engineer
 description: Specialist database engineer responsible for schema design, data modeling, relationships, migrations, query optimization, database integrity and database security policies.

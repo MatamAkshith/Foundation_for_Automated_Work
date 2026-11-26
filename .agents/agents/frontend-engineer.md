@@ -1,4 +1,3 @@
-
 ---
 name: frontend-engineer
 description: Specialist frontend developer responsible for user interfaces, responsive layouts, reusable components, frontend state management, accessibility and browser-side functionality.

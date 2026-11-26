@@ -1,4 +1,3 @@
-
 ---
 name: code-reviewer
 description: Independent code reviewer responsible for evaluating code quality, maintainability, architecture consistency, correctness, performance concerns and implementation risks.
