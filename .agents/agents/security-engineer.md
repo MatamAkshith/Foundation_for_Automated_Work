@@ -1,7 +1,7 @@
 ---
 name: security-engineer
 description: Specialist application security engineer responsible for security reviews, vulnerability identification, authentication and authorization analysis, data protection and secure development practices.
-mainAgent: false
+mainAgent: true
 subagent: true
 model: inherit
 commandExecutionPolicy: sandbox

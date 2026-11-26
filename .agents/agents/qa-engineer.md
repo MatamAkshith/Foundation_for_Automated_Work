@@ -1,7 +1,7 @@
 ---
 name: qa-engineer
 description: Specialist quality assurance engineer responsible for test planning, test implementation, functional verification, regression testing, integration testing and acceptance criteria validation.
-mainAgent: false
+mainAgent: true
 subagent: true
 model: inherit
 commandExecutionPolicy: sandbox

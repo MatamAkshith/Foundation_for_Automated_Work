@@ -1,7 +1,7 @@
 ---
 name: code-reviewer
 description: Independent code reviewer responsible for evaluating code quality, maintainability, architecture consistency, correctness, performance concerns and implementation risks.
-mainAgent: false
+mainAgent: true
 subagent: true
 model: inherit
 commandExecutionPolicy: sandbox
